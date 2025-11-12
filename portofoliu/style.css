@@ -1,0 +1,43 @@
+h1,h2,h3 {
+    color: white;
+}
+
+table,td,th {
+    border: 2px solid blue;
+}
+
+.text-center{
+     text-align: center;
+}
+
+#rounded-img {
+      border-radius: 90px;
+}
+body{
+    background-color: grey;
+    background-image:url(pozafundal.jpg);
+    background-size: 100%;
+}
+p{
+color: white;
+}
+img {
+  opacity: 0.5;
+}
+
+img:hover {
+  opacity: 1.0;
+}
+h5 {
+color: black;
+}
+h4{
+color: white;
+}
+
+h4,br,ul,li{
+color: white;
+}
+
+
+
